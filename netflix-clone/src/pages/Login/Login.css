@@ -151,3 +151,12 @@ input[type=password] {
 .signup a:hover {
 	text-decoration: underline;
 }
+.signup-netflix{
+	color: #737373;
+    text-align: center;
+    margin: 10px;
+}
+.signup-netflix .signup-button{
+	color: #e50914;
+   cursor: pointer;
+}
